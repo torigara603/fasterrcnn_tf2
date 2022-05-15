@@ -1,0 +1,12 @@
+{
+    "name": "fasterrcnn_tf2",
+    "dockerComposeFile":[
+        "../docker-compose.yml"
+    ],
+    "service": "tf",
+    "workspaceFolder": "/tensorflow",
+    "extensions":[
+        "ms-python.python",
+        "ms-python.vscode-pylance"
+    ],
+}
